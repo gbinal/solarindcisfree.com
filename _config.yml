@@ -38,15 +38,24 @@ navigation:
 - text: Home
   url: /index.html
   internal: true
-- text: APIs In Government
-  url: https://api-all-the-x.18f.gov/
-  internal: false
-- text: Good Stuff
-  url: /pages/good_stuff
+- text: The Finances (Summary)
+  url: #the-finances-in-summary
   internal: true
-- text: Loyal Opposition
-  url: /loyal-opposition/
+- text: How To Do This (Summary)
+  url: #the-process-in-summary
   internal: true
-- text: GitHub
-  url: https://github.com/gbinal
+- text: Your Options (Summary)
+  url: #the-options-in-summary
+  internal: true
+- text: The Finances (Details)
+  url: #the-finances-in-detail
   internal: false
+- text: How To Do This (Details)
+  url: #the-process-in-detail
+  internal: true
+- text: Your Options (Details)
+  url: #the-options-in-detail
+  internal: true
+- text: Caveats
+  url: #caveats
+  internal: true
