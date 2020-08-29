@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="https://graybrooks.com/assets/css/normalize.css">
+        <link rel="stylesheet" href="https://graybrooks.com/assets/css/main.css">
+        <link rel="stylesheet" href="https://graybrooks.com/assets/css/syntax.css">
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-35100732-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-35100732-1');
+</script>
+
+    </head>
+    <body>
+
+
+
+      <header role="banner">
+
+      <div class="wrap">
+        {% if site.logourl != null %}
+          <img class="logo" src="{{site.logourl}}" alt="{{site.logoalt}}">
+        {% endif %}
+        <h1><a class="title-link" href="https://www.graybrooks.com">{{ site.name }}</a></h1>
+        <div style="float:right">
+            <!-- This should be a configurable item in data/ -->
+
+            <a href="https://www.graybrooks.com" class="title-link">
+                <img height="52" src="https://graybrooks.com/assets/img/xkcd_logo.png" alt="Your agency logo">
+            </a>
+        </div>
+      </div>
+      </header>
+
+      <div class="wrap content">
+
+          {% include sidebar.html %}
+
+        <section id="main" class="main-content" role="main">
+          {{ content }}
+        </section>
+        
+        
+        <footer role="contentinfo">
+          <p>Hosted on <a href="https://github.com/gbinal/gbinal.github.com">Github Pages</a></p>
+         
+        </footer>
+
+      </div><!-- /.wrap -->
+    </body>
+</html>
