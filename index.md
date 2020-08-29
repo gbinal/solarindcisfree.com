@@ -1,11 +1,31 @@
 ---
 layout: default
-title: Gray's Website
+title: Solar Panels in DC can be free
 published: true
 ---
 
-## Working on it...  
+## Summary
 
-Like everything else, this site is still very much a work in progress.  Now that I've finally transitioned it to a public open source project, I hope to put out updates a bit more freely and readily (agile, am I right?).   
+The financial incentives for adding solar panels to your home have become so good for DC residents that you can now get solar panels installed on your home that you own outright and that are free.  I'll explain more below, but again, you can get solar panels on your house that you own and that you get the energy from, for free.  
 
-In the meantime, thanks for stopping by and take care.  
+## The Finances, In Summary
+
+There are four financial benefits when you install solar panels on your home:  
+
+* 
+
+## The Process, In Summary 
+
+
+
+## The Options, In Summary 
+
+
+## The Finances, In Detail 
+
+
+## The Process, In Detail 
+
+
+
+## The Options, In Detail 
