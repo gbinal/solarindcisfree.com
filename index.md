@@ -7,6 +7,7 @@ published: true
 ## Summary
 
 The financial incentives for adding solar panels to your home have become so good for DC residents that you can now get solar panels installed on your home that you own outright and that are free.  I'll explain more below, but again, you can get solar panels on your house that you own and that you get the energy from, for free.      
+  
 To be clear, I'm just an enthusiastic fan of solar panels and good deals, and it has only been in the last few years that the incentives have gotten to this point, so if you haven't heard this before, it's understandable.  I have no ties to any solar companies and I don't get any financial benefit if you follow any of this advice or get solar for your house in any way.  More people installing solar on their homes is good for us all from a climate standpoint, but I genuinely think that this is a particularly good deal for homeowners in DC aside from all of that and really just want everybody to know about it.  I give my background and explain this thinking more below.    
 
 
